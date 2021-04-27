@@ -34,5 +34,5 @@ My name is Sara and I'm learning Web Development at BeCode.
 2. Search bars (one for the header and one for the shop)
 3. Sort items (shop) 
 4. Make the shopping cart work 
-5. Newsletter (add email to the database) 
+5. Newsletter (add email to the database) ------ in progress
 6. Client account
