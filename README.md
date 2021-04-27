@@ -17,6 +17,15 @@ Basically everything seems like a technical challenge at this point, although th
 
 ![newsletter](freshShopTemplate/images/readme/newsletter.PNG)
 
+* step 1: the database
+
+I've created a database named webshop and a table named users
+
+![database](freshShopTemplate/images/readme/database.PNG) 
+
+![table users](freshShopTemplate/images/readme/users.PNG) 
+
+
 ### Who
 My name is Sara and I'm learning Web Development at BeCode.
 
