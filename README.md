@@ -58,7 +58,7 @@ Meanwhile, I've decided to create another table for the newsletter, only with a 
 My name is Sara and I'm learning Web Development at BeCode.
 
 ### Things to do
-1. Register/login system  :black_nib:
+1. Register/login system ---------------------------------- in progress
 2. Search bars (one for the header and one for the shop)
 3. Sort items (shop) 
 4. Make the shopping cart work 
