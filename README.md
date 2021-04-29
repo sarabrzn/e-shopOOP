@@ -5,7 +5,9 @@ All the frontend was provided by BeCode.
 
 ![home page](freshShopTemplate/images/readme/home.PNG)
 
-I have started by analyzing all of the template files and I've  realized that there was a lot of repetition in the code. So the first thing I did was to eliminate at least some of the repetition. I put the header, the instagram feed, and the footer into separate files, although I'm not sure I've done it correctly, since I've included the head of the page in the header, and the JS links in the footer. I will probably change that in the meantime. Anyway, at least I have less lines of code now. I also started reorganizing the folders, because we need to use the MVC structure. So I've changed all the html extensions into php, and I've put all inside a folder (views). 
+I have started by analyzing all of the template files and I've  realized that there was a lot of repetition in the code. So the first thing I did was to eliminate at least some of the repetition. I put the header, the instagram feed, and the footer into separate files, although I'm not sure I've done it correctly, since I've included the head of the page in the header, and the JS links in the footer. I will probably change that in the meantime. Anyway, at least I have less lines of code now. I also started reorganizing the folders, because we need to use the MVC structure (Model View Controller). So I've changed all the html extensions into php, and I've put all inside the views folder. 
+
+![file explorer vscode](freshShopTemplate/images/readme/fileExplorer.PNG)
 
 
 
@@ -47,6 +49,9 @@ Meanwhile, I've decided to create another table for the newsletter, only with a 
 
 
 ![register and login forms](freshShopTemplate/images/readme/forms.PNG)
+
+
+
 
 
 ### Who
