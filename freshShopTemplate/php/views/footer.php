@@ -14,7 +14,7 @@
 					<div class="col-lg-4 col-md-12 col-sm-12">
 						<div class="footer-top-box">
 							<h3>Newsletter</h3>
-							<form class="newsletter-box">
+							<form class="newsletter-box" action="../controllers/newsletter.cont.php" method = "POST">
 								<div class="form-group">
 									<input class="" type="email" name="Email" placeholder="Email Address*" />
 									<i class="fa fa-envelope"></i>
@@ -100,7 +100,7 @@
     <script src="../../js/jquery.superslides.min.js"></script>
     <script src="../../js/bootstrap-select.js"></script>
     <script src="../../js/inewsticker.js"></script>
-    <script src="../../js/bootsnav.js."></script>
+    <script src="../../js/bootsnav.js"></script>
     <script src="../../js/images-loded.min.js"></script>
     <script src="../../js/isotope.min.js"></script>
     <script src="../../js/owl.carousel.min.js"></script>

@@ -16,8 +16,8 @@
                     <li><a href="wishlist.php">Wishlist</a></li>
                 </ul>
             </li>
-            <li class="nav-item"><a class="nav-link" href="gallery.html">Gallery</a></li>
-            <li class="nav-item"><a class="nav-link" href="contact-us.html">Contact Us</a></li>
+            <li class="nav-item"><a class="nav-link" href="gallery.php">Gallery</a></li>
+            <li class="nav-item"><a class="nav-link" href="contact-us.php">Contact Us</a></li>
         </ul>
     </div>
 <!-- /.navbar-collapse -->

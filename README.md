@@ -13,26 +13,49 @@ I have started by analyzing all of the template files and I've  realized that th
 We should have about a week to complete the project, depending on the general progress of the class.
 
 ### How (technical challenges) 
-Basically everything seems like a technical challenge at this point, although the Newsletter seems like a simple thing to do, since we only need to add the email to the database. Therefore, my next step will be to create the database and start by feature number 5 (in pending things to do), the Newsletter.
+Basically everything seems like a technical challenge at this point, although the Newsletter seems like a simple thing to do, since we only need to add the email to the database. Therefore, my next step will be to create the database and start by feature number 5 (check things to do), the Newsletter.
+
+#### Newsletter
 
 ![newsletter](freshShopTemplate/images/readme/newsletter.PNG)
 
-* step 1: the database
+* step 1: create the database
 
-I've created a database named webshop and a table named users
+    I've created a database named webshop and a table named users
 
 ![database](freshShopTemplate/images/readme/database.PNG) 
 
 ![table users](freshShopTemplate/images/readme/users.PNG) 
 
 
+Meanwhile, I've decided to create another table for the newsletter, only with a column id and a column email. 
+
+
+![table newsletter](freshShopTemplate/images/readme/table_newsletter.PNG) 
+
+* step 2: connection to the database
+
+* step 3: inserting the data (email) into the database
+
+    I have finally managed to insert the email into the database, so it's time to move to the next step: the register/login system.
+
+#### Register/Login System
+
+* step 1: create a page for the register form and a page for the login form.
+    
+    The site already includes the forms, in the area of checkout, so I will just copy the code and paste it into the correspondent file (in the folder views).
+
+
+![register and login forms](freshShopTemplate/images/readme/forms.PNG)
+
+
 ### Who
 My name is Sara and I'm learning Web Development at BeCode.
 
-### Pending things to do
-1. Register/login system
+### Things to do
+1. Register/login system  :black_nib:
 2. Search bars (one for the header and one for the shop)
 3. Sort items (shop) 
 4. Make the shopping cart work 
-5. Newsletter (add email to the database) ------ in progress
+5. Newsletter (add email to the database) :heavy_check_mark:
 6. Client account
